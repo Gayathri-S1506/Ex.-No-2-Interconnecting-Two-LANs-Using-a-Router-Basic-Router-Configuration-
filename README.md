@@ -1,7 +1,5 @@
-# Date :
+# Date :24-10-2026
 ## Ex.-No-2-Interconnecting-Two-LANs-Using-a-Router-Basic-Router-Configuration
-
-
 # Objective
 To configure a router to connect two separate LANs and enable communication between them using static IP addressing.
 ________________________________________
@@ -16,7 +14,8 @@ ________________________________________
  Description:<br>
 •	PC0 → Switch0 → Router (FastEthernet0/0)<br>
 •	PC1 → Switch1 → Router (FastEthernet0/1)<br>
-(Insert screenshot of your Packet Tracer setup here)<br>
+<img width="1600" height="1000" alt="WhatsApp Image 2026-10-24 at 9 59 54 AM" src="https://github.com/user-attachments/assets/0b51ad8c-c9ee-4eba-8738-7840d3177baa" />
+
 ________________________________________
 # IP Addressing Table
 Device	Interface	IP Address	Subnet Mask<br>
@@ -55,6 +54,11 @@ ________________________________________
 •	Router CLI configuration<br>
 •	IP configurations on PCs<br>
 •	Successful ping between PC0 and PC1<br>
+<img width="1600" height="1000" alt="WhatsApp Image 2026-10-24 at 10 22 14 AM" src="https://github.com/user-attachments/assets/d3c07f60-5764-4deb-aec0-65a91db8408e" />
+<img width="1600" height="1000" alt="WhatsApp Image 2026-10-24 at 10 22 35 AM" src="https://github.com/user-attachments/assets/44d70b3c-899a-4ff9-a995-da6bfa19b7d2" />
+<img width="1600" height="1000" alt="WhatsApp Image 2026-10-24 at 10 23 10 AM" src="https://github.com/user-attachments/assets/14b135e5-a4a9-4fb7-8578-7e7f14812c5d" />
+<img width="1600" height="1000" alt="WhatsApp Image 2026-10-24 at 10 23 25 AM" src="https://github.com/user-attachments/assets/29acf964-d065-41a7-864b-07be76b5d520" />
+<img width="1600" height="1000" alt="WhatsApp Image 2026-10-24 at 10 21 25 AM" src="https://github.com/user-attachments/assets/610b1546-c3a6-4491-9553-422e3c863acf" />
 ________________________________________
 # Result
 Successfully configured a router to connect two LANs. Communication between PC0 and PC1 across different networks was tested and verified.
